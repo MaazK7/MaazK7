@@ -4,7 +4,7 @@
 
 
 <div style="text-align: center;">
-    <img src="https://voicebot.ai/wp-content/uploads/2023/05/deep-floyd.gif" alt="Pink and Black Modern Initials Logo Design" width="200" height="200">
+    <img src="https://voicebot.ai/wp-content/uploads/2023/05/deep-floyd.gif" alt="Pink and Black Modern Initials Logo Design" width="600" height="200">
 </div>
 
 
