@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Maaz</h1>
 
+<h3 align="center">A dedicated GenAI developer</h3>
+
+
 <div style="text-align: center;">
     <img src="https://voicebot.ai/wp-content/uploads/2023/05/deep-floyd.gif" alt="Pink and Black Modern Initials Logo Design">
 </div>
 
-<h3 align="center">A dedicated GenAI developer</h3>
 
 - 🔭 I’m currently working on **Retrieval Augemented Generation**
 
