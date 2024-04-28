@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maaz</h1>
 <h3 align="center">A dedicated GenAI developer</h3>
-<img ![Pink and Black Modern Initials Logo Design](https://github.com/MaazK7/MaazK7/assets/115479920/f183d538-f99e-44bc-b333-02dadf37a6ea) >
+<img ![Pink and Black Modern Initials Logo Design] src=https://github.com/MaazK7/MaazK7/assets/115479920/f183d538-f99e-44bc-b333-02dadf37a6ea >
 
 - 🔭 I’m currently working on **Retrieval Augemented Generation**
 
