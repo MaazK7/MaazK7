@@ -9,6 +9,7 @@
 
 
 - 🔭 I’m currently working on **Retrieval Augemented Generation**
+- 👨‍💻 Microsoft Certified [Azure AI Engineer](https://learn.microsoft.com/api/credentials/share/en-us/MaazBinKhalid-7462/D75E81A393A4EFB3?sharingId=B7CA9CEA44BE8C2B)
 
 - 📫 How to reach me **maazbinkhalid.07@gmail.com**
 
