@@ -9,7 +9,7 @@
 <h1 align="center">Hi, I'm Maaz. A passionate GenAI developer</h1>
 
 
-- 🔭 I’m currently working on **Retrieval Augemented Generation**
+- 🔭 I’m currently working on **Generative AI Use Cases**
 - ☁️ Cloud Platform **Microsoft Azure**
 - GenAI Frameworks **Langchain, LlamaIndex**
 - 👯 I’m looking to collaborate on **Generative AI Projects**
