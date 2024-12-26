@@ -13,6 +13,7 @@
 - ☁️ Cloud Platform **Microsoft Azure**
 - GenAI Frameworks **Langchain, LlamaIndex**
 - 👯 I’m looking to collaborate on **Generative AI Projects**
+- 💡 I love to write Technical Blogs[Medium](https://medium.com/@maazkhalid7)
 - 👨‍💻 Microsoft Certified [Azure AI Engineer](https://learn.microsoft.com/api/credentials/share/en-us/MaazBinKhalid-7462/D75E81A393A4EFB3?sharingId=B7CA9CEA44BE8C2B)
 
 - 📫 How to reach me **maazbinkhalid.07@gmail.com**
